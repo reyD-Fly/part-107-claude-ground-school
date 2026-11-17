@@ -102,6 +102,12 @@ All PDFs in the Knowledge Base release are U.S. government works in the public d
 - [Remote Pilot – Small Unmanned Aircraft Systems Study Guide (FAA-G-8082-22)](https://www.faa.gov/sites/faa.gov/files/uas/resources/policy_library/remote_pilot_study_guide.pdf)
 - [Airman Knowledge Testing Supplement for Sport Pilot, Recreational Pilot, Remote Pilot, and Private Pilot (FAA-CT-8080-2H)](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/sport_rec_private_akts.pdf) · [FAA testing supplements page](https://www.faa.gov/training_testing/testing/supplements)
 
+## Contact
+
+- **Questions or problems with the study system:** Open an [Issue](https://github.com/reyD-Fly/part-107-claude-ground-school/issues) here on GitHub. Other students can see the answer too.
+- **Email:** dewdrop.26stories@icloud.com
+- **Instructors and professionals:** Connect with me on [LinkedIn](https://www.linkedin.com/in/luiscadiz).
+
 ## Disclaimer
 
 This project is not affiliated with or endorsed by the FAA, PSI, Anthropic, or the authors of the study guides listed above. The instructor is an AI tutor. It is not perfect and can make mistakes. Be sure to check important facts against the official FAA sources.
