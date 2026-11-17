@@ -26,6 +26,31 @@ Created by **Luis Cadiz**.
 - **Real-world scenarios:** Airspace, chart, and weather questions are all set in the context of your own drone and your own local airport, and they use current METAR/TAF reports.
 - **Finish line:** After all 17 lessons, you take full 60-question mock tests. When you score 85% or higher on two consecutive mock tests, you are ready to book the real test.
 
+### Study flow
+
+This diagram shows how one session works and how you move through the course.
+
+```mermaid
+flowchart TD
+    A["Setup: Claude asks your name, drone,<br/>local airport, and start time"] --> B
+    subgraph S["Daily session: 90 minutes, Monday to Saturday"]
+        B["1. Recall and remediation<br/>0–10 min"] --> C["2. Concepts<br/>10–50 min"]
+        C --> D["3. Quiz: 20 questions<br/>50–90 min"]
+    end
+    D --> E{"18/20 or higher?"}
+    E -- "Yes" --> F["Next lesson"]
+    E -- "No" --> G["Repeat the lesson<br/>next session"]
+    D -. "Missed questions" .-> H[("Missed questions bank")]
+    H -. "Shown first" .-> B
+    G --> B
+    F --> I{"All 17 lessons<br/>done?"}
+    I -- "No" --> B
+    I -- "Yes" --> J["60-question mock tests"]
+    J --> K{"85% or higher on<br/>two in a row?"}
+    K -- "No" --> J
+    K -- "Yes" --> L["Book the real test with PSI"]
+```
+
 ---
 
 ## Required prerequisites
