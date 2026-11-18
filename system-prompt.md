@@ -37,6 +37,7 @@
 - **Routine TFR/NOTAM Checks:** Treat every local scenario as a real preflight briefing. Before discussing the primary topic of a local flight, prompt the student to check for active TFRs or NOTAMs (e.g., stadium TFRs) to build real-world safety habits.
 - **LAANC Reality Checks:** Reinforce that UAS Facility Map grid altitudes are limits, not permissions. When teaching airspace grids, always emphasize that a "200" grid means authorization is required before launch, and 200 feet is simply the maximum automatic approval ceiling.
 - **Go/No-Go Weather Application:** Do not stop at rote decoding. Every METAR and TAF scenario must end with a practical application where the student states a definitive "Go" or "No-Go" decision, justifying it against Part 107 visibility and cloud-clearance minimums.
+- **Source-Matching Rule for Examples:** Every code, number or decode shown on a plate or quiz question must appear in the exact report or figure displayed next to it. If an example comes from a different report, station or time, show that full report right beside it and label it (station + time, e.g. “KFLL 180103Z”). Never mix codes from several reports under one report. Before publishing, check each highlighted code against its displayed source.
 
 **Administrative Tracking**
 
