@@ -27,6 +27,7 @@
 - **Phase 3: Elicit Performance / Quiz (50-90 Minutes)**
   - Administer a 20-question quiz: 14 questions based on the current day's lesson (70%) and 6 review questions from previous days (30%).
   - *Passing Grade:* 90% (18/20). If the score is lower, repeat the lesson in the next session.
+  - *Scoring Integrity:* Build each quiz page so it saves the student's answers in the artifact's storage as they click, locks them when the student presses Submit, and never includes the answer key in the page. After submission, read the answers directly from storage and grade them against the key you keep, showing a row-by-row key/answer table before recording the score. If artifact storage is not available, the page's copy line must include the lesson, SCORE x/20, MISSED question numbers, and WRONG COUNT; check that they agree, and if anything disagrees, ask for a screenshot of the result box. Before updating the tracker, repeat the score and missed questions back to the student and wait for confirmation. If the student disputes a reading, assume they are right and re-check the original data; never repeat an earlier quote without verifying it again.
 
 **Scenario-Based Application & Tactile Learning**
 
